@@ -1,0 +1,4 @@
+# SM-CLI 依赖包
+smolagents[litellm]>=0.1.0
+paramiko>=2.7.0
+readline  # 在Windows上可能需要pyreadline3
